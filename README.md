@@ -4,4 +4,4 @@ GUI for apt to remove and read the about page of a package. This program is test
 
 
 # Credits
-This program is developed by blabla_lab using python and PySimplegui
+This program is developed by blabla_lab using Python 3.10 and PySimpleGUI
